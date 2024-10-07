@@ -62,9 +62,8 @@
     <a href="https://drive.google.com/file/d/1aBtRgkTU0e3DcHJoc_s3XezDatWv1VtK/view?usp=drivesdk" target="_blank"><img src="./public/images/videoPreview.png" alt="Video Preview" width="100%" /></a>
     <br />
     <br />
-    <strong align="center">Link com controle de acesso e consumindo API VIACep:</strong>
     <br />
-    <a href="https://drive.google.com/file/d/1rKRP0eOZo7LzUP8UMqdVKxuy76bYOXBW/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1rKRP0eOZo7LzUP8UMqdVKxuy76bYOXBW/view?usp=sharing" target="_blank"><strong align="center">Link com controle de acesso e consumindo API VIACep:</strong></a>
   </div>
 
   <p align="center">
