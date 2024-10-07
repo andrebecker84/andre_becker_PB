@@ -1,7 +1,7 @@
 # Projeto de Exercícios React
 
 <div align="center">
-  <img src="./public/infnet_logo.png" alt="Logomarca da Faculdade" width="25%" />
+  <img src="./public/infnet_logo.png" alt="Logomarca da Faculdade" width="15%" />
 </div>
 
 <p align="center">
@@ -12,8 +12,10 @@
 
 <p align="center">
   <strong>Sistema de Compras - ACME</strong><br>
-  <img src="./public/images/logoACME.png" alt="Logomarca da Faculdade" width="50%" />
+  <img src="./public/images/logoACME.png" alt="Logomarca da Faculdade" width="30%" />
 </p>
+
+<p align="center">
   <a href="https://github.com/andrebecker84">
     <img src="https://img.shields.io/badge/andrebecker84-000000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
@@ -26,31 +28,31 @@
 </p>
 
 <div align="center">
-  <img src="./public/images/bemVindo.png" alt="Bem Vindo" width="25%" />
+  <img src="./public/images/bemVindo.png" alt="Bem Vindo" width="100%" />
 </div>
 
 ## Diagrama de Classes:
 
   <div align="center">
-    <img src="./public/images/Diagrama_ACME_Siscomp.png" alt="Logomarca ACME" width="50%" />
+    <img src="./public/images/Diagrama_ACME_Siscomp.png" alt="Logomarca ACME" width="100%" />
   </div>
 
 ## Funcionalidades Principais:
 
   <div align="center">
-   <img src="./public/images/funcionalidadesPrincipais.png" alt="Funcionalidades Principais" width="50%" />
+   <img src="./public/images/funcionalidadesPrincipais.png" alt="Funcionalidades Principais" width="100%" />
   </div>
 
 ## Requisitos Funcionais:
 
   <div align="center">
-    <img src="./public/images/requisitosFuncionais.png" alt="Requisitos Funcionais" width="50%" />
+    <img src="./public/images/requisitosFuncionais.png" alt="Requisitos Funcionais" width="100%" />
   </div>
 
 ## Apresentação:
 
   <div align="center">
-    [![Apresentação](/public/images/videoPreview.png)](public/videos/2024-10-06%2023-12-33.mp4)
+    <img src="./public/images/videoPreview.png" alt="em breve apresentação..." width="100%" />
   </div>
 
   <p align="center">
