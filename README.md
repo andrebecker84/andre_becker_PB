@@ -63,7 +63,6 @@
   <p align="center">
     <br />
     <hr />
-    <br />
-    <strong align="center">Obrigado pela visita!</strong>
+    <strong align="center">Obrigado pela sua visita. André Luis Becker.</strong>
     <br />
 </p>
