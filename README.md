@@ -2,6 +2,8 @@
 
 <div align="center">
   <img src="./public/infnet_logo.png" alt="Logomarca da Faculdade" width="15%" />
+  <img src="./public/images/logoACME.png" alt="Logomarca da Faculdade" width="30%" />
+  <h2>Sistema de Compras - ACME</h2><br>
 </div>
 
 <p align="center">
@@ -11,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>Sistema de Compras - ACME</strong><br>
+  
   <img src="./public/images/logoACME.png" alt="Logomarca da Faculdade" width="30%" />
 </p>
 
@@ -34,7 +36,7 @@
 ## Diagrama de Classes:
 
   <div align="center">
-    <img src="./public/images/Diagrama_ACME_Siscomp.png" alt="Logomarca ACME" width="100%" />
+    <img src="./public/images/Diagrama_ACME_Siscomp.png" alt="Logomarca ACME" width="35%" />
   </div>
 
 ## Funcionalidades Principais:
@@ -52,12 +54,13 @@
 ## Apresentação:
 
   <div align="center">
-    <img src="./public/images/videoPreview.png" alt="em breve apresentação..." width="100%" />
+    <img src="./public/images/videoPreview.png" alt="Video Preview" width="100%" />
   </div>
 
   <p align="center">
     <br />
     <hr />
     <br />
-    <strong>Obrigado pela visita!</strong>
+    <strong align="center">Obrigado pela visita!</strong>
+    <br />
 </p>
