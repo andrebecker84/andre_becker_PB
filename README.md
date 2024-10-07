@@ -1,21 +1,19 @@
 # Projeto de Exercícios React
 
 <div align="center">
-  <img src="./public/infnet_logo.png" alt="Logomarca da Faculdade" width="15%" />
+  
   <img src="./public/images/logoACME.png" alt="Logomarca da Faculdade" width="30%" />
   <h2>Sistema de Compras - ACME</h2><br>
 </div>
 
 <p align="center">
+  <img src="./public/infnet_logo.png" alt="Logomarca da Faculdade" width="15%" />
+  <br />
   <strong>Projeto Bloco - Desenvolvimento Front-end com Frameworks</strong><br>
   <strong>Professor: Armênio Torres Santiago Cardoso</strong><br>
   <strong>Aluno: André Luis Becker</strong>
 </p>
-
-<p align="center">
-  
-  <img src="./public/images/logoACME.png" alt="Logomarca da Faculdade" width="30%" />
-</p>
+<hr />
 
 <p align="center">
   <a href="https://github.com/andrebecker84">
@@ -28,6 +26,7 @@
     <img src="https://img.shields.io/badge/My-links-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge" />
   </a>
 </p>
+<hr />
 
 <div align="center">
   <img src="./public/images/bemVindo.png" alt="Bem Vindo" width="100%" />
@@ -36,7 +35,7 @@
 ## Diagrama de Classes:
 
   <div align="center">
-    <img src="./public/images/Diagrama_ACME_Siscomp.png" alt="Logomarca ACME" width="35%" />
+    <img src="./public/images/Diagrama_ACME_Siscomp.png" alt="Logomarca ACME" width="60%" />
   </div>
 
 ## Funcionalidades Principais:
