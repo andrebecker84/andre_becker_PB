@@ -8,18 +8,16 @@
 <p align="center">
   <img src="./public/infnet_logo.png" alt="Logomarca da Faculdade" width="15%" />
   <br /><br />
-  <strong>Projeto Bloco - Desenvolvimento Front-end com Frameworks</strong><br />
-</p>
-
-#
-
-<p align="center">
-  <strong>Professor: Armênio Torres Santiago Cardoso</strong><br />
+  <strong>Projeto Bloco - Desenvolvimento Front-end com Frameworks</strong>
+  <br /><br />
+  <strong>Professor: Armênio Torres Santiago Cardoso</strong>
+  <br /><br />
   <strong>Aluno: André Luis Becker</strong><br />
 </p>
 
 #
 
+<br />
 <p align="center">
   <a href="https://github.com/andrebecker84">
     <img src="https://img.shields.io/badge/andrebecker84-000000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" />
