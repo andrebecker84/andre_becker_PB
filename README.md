@@ -57,7 +57,7 @@
 ## Apresentação:
 
   <div align="center">
-    <img src="./public/images/videoPreview.png" alt="Video Preview" width="100%" />
+    <img src="./public/images/videoPreview.png" href='https://drive.google.com/file/d/1aBtRgkTU0e3DcHJoc_s3XezDatWv1VtK/view?usp=drivesdk' alt="Video Preview" width="100%" />
   </div>
 
   <p align="center">
