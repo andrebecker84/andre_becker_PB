@@ -57,6 +57,8 @@
 ## Apresentação:
 
   <div align="center">
+    <strong align="center">Clique na imagem abaixo para assistir:</strong>
+    <br />
     <a href="https://drive.google.com/file/d/1aBtRgkTU0e3DcHJoc_s3XezDatWv1VtK/view?usp=drivesdk" target="_blank"><img src="./public/images/videoPreview.png" alt="Video Preview" width="100%" /></a>
   </div>
 
