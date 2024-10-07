@@ -1,0 +1,27 @@
+.neon {
+  color: #983146;
+  text-shadow: 
+    0 0 5px #983146,
+    0 0 10px #983146,
+    0 0 20px #983146,
+    0 0 30px #983146,
+    0 0 40px #983146,
+    0 0 50px #983146,
+    0 0 60px #983146;
+}
+
+.neon-box {
+  box-shadow: 0 0 60px #983146;
+}
+
+.neon-image { 
+  filter: drop-shadow(0 0 10px #983146);
+}
+
+.card-neon {
+  box-shadow: 0 0 200px rgba(152, 49, 70, 0.3);
+}
+
+li {
+  display: flex;
+}
