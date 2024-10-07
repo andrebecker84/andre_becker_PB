@@ -1,20 +1,19 @@
-# Projeto de Exercícios React
+# Sistema de Compras - ACME (React.JS)
 
 <div align="center">
-  
   <img src="./public/images/logoACME.png" alt="Logomarca da Faculdade" width="30%" />
-  <h2>Sistema de Compras - ACME</h2><br>
 </div>
+<br />
+<hr />
+<br />
 
 <p align="center">
   <img src="./public/infnet_logo.png" alt="Logomarca da Faculdade" width="15%" />
-  <br />
-  <strong>Projeto Bloco - Desenvolvimento Front-end com Frameworks</strong><br>
-  <strong>Professor: Armênio Torres Santiago Cardoso</strong><br>
-  <strong>Aluno: André Luis Becker</strong>
+  <br /><br />
+  <h2>Projeto Bloco - Desenvolvimento Front-end com Frameworks</h2><br />
+  <p>Professor: Armênio Torres Santiago Cardoso</p><br />
+  <p>Aluno: André Luis Becker</p><br />
 </p>
-<hr />
-
 <p align="center">
   <a href="https://github.com/andrebecker84">
     <img src="https://img.shields.io/badge/andrebecker84-000000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" />
