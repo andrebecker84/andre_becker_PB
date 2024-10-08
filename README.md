@@ -1,12 +1,12 @@
 # Sistema de Compras - ACME (React.JS)
 
 <div align="center">
-  <img src="./public/images/logoACME.png" alt="Logomarca da Faculdade" width="30%" />
+  <img src="./public/images/logoACME.png" alt="Logomarca ACME" width="30%" />
 </div>
 <br />
 
 <p align="center">
-  <img src="./public/infnet_logo.png" alt="Logomarca da Faculdade" width="15%" />
+  <img src="./public/infnet_logo.png" alt="Logomarca Instituto Infnet" width="15%" />
   <br /><br />
   <strong>Projeto Bloco - Desenvolvimento Front-end com Frameworks</strong>
   <br /><br />
